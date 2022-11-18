@@ -1,0 +1,31 @@
+*{
+	width: 100%;
+	height: fit-content;
+	scroll-behavior: auto;
+}
+
+
+body{
+	background: url(privacy.jpg);
+	border-image-repeat: calc(100hv);
+}
+
+.text{
+	width: 1200px;
+    height: auto;
+	margin:auto;
+	position:absolute;
+	top: 125%;
+	left: 10%;
+	bottom: auto;
+    padding: 25%;
+    color: #fff;
+	
+}
+.textcolor{
+	color: #fff;
+	text-decoration: none;
+
+}
+
+
